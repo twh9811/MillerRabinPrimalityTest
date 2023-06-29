@@ -1,0 +1,1 @@
+A Python implementation of the Miller-Rabin primality test. It determines which numbers in a certain range are prime or not and also calculates the error probablity that the test resulted in a false-positive.
